@@ -1,0 +1,15 @@
+Document Path:          /checkout-vm
+Document Length:        187 bytes
+
+Concurrency Level:      25
+Time taken for tests:   4.970 seconds
+Complete requests:      25000
+Failed requests:        0
+Keep-Alive requests:    24762
+Total transferred:      8873810 bytes
+HTML transferred:       4675000 bytes
+Requests per second:    5029.69 [#/sec] (mean)
+Time per request:       4.970 [ms] (mean)
+Time per request:       0.199 [ms] (mean, across all concurrent requests)
+Transfer rate:          1743.46 [Kbytes/sec] received
+

@@ -1,0 +1,14 @@
+Document Path:          /checkout-ftl
+Document Length:        189 bytes
+
+Concurrency Level:      25
+Time taken for tests:   1.763 seconds
+Complete requests:      25000
+Failed requests:        0
+Keep-Alive requests:    24763
+Total transferred:      8798815 bytes
+HTML transferred:       4725000 bytes
+Requests per second:    14177.01 [#/sec] (mean)
+Time per request:       1.763 [ms] (mean)
+Time per request:       0.071 [ms] (mean, across all concurrent requests)
+Transfer rate:          4872.69 [Kbytes/sec] received

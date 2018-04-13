@@ -1,0 +1,14 @@
+Document Path:          /checkout-httl
+Document Length:        189 bytes
+
+Concurrency Level:      25
+Time taken for tests:   1.898 seconds
+Complete requests:      25000
+Failed requests:        0
+Keep-Alive requests:    24760
+Total transferred:      10623800 bytes
+HTML transferred:       4725000 bytes
+Requests per second:    13173.32 [#/sec] (mean)
+Time per request:       1.898 [ms] (mean)
+Time per request:       0.076 [ms] (mean, across all concurrent requests)
+Transfer rate:          5466.83 [Kbytes/sec] received
